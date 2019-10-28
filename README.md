@@ -17,7 +17,7 @@ webpack https://segmentfault.com/a/1190000006178770#articleHeader3
 
 minidao http://minidao.mydoc.io/
 
-
+跟我学Shiro（我的公众号：kaitao-1234567，我的新书：《亿级流量网站架构核心技术》）https://github.com/zhangkaitao/shiro-example
 
 
 
